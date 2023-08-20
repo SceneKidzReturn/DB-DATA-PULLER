@@ -1,10 +1,12 @@
 # Data Processor Tool 📊
 
+## THIS IS JUST A FRAMEWORK! EASILY CUSTOMIZABLE, ADD TO IT!
+
 Easily Pull IP Data From DB's With This Tool! 🌐
 
 Built & Produced By SceneKidzReturn
 
-For more info or to contact me with issues, join my Discord: [![Discord](https://img.shields.io/discord/123456789012345678)](https://discord.gg/fDxzqpdVRq)
+For more info or to contact me with issues, join my Discord: [![Discord](https://discord.gg/fDxzqpdVRq)
 
 ## Overview
 
@@ -29,10 +31,10 @@ This Python tool is designed to simplify the process of extracting data from dat
 
 ```bash
 # Clone the Repository
-git clone https://github.com/yourusername/DataProcessorTool.git
+git clone https://github.com/SceneKidzReturn/DB-DATA-PULLER.git
 
 # Navigate to the Project Directory
-cd DataProcessorTool
+cd DB-DATA-PULLER
 
 # Install Dependencies
 pip install -r requirements.txt
